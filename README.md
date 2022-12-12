@@ -6,8 +6,7 @@
 
 ## 影片
 
-[<img src="https://i.ytimg.com/vi/WAtuiLH-Npk/default.jpg" width="50%">](https://www.youtube.com/watch?v=WAtuiLH-Npk "Now in Android: 55")
-
+[<img src="https://i.ytimg.com/vi/WAtuiLH-Npk/default.jpg" width="50%">](https://www.youtube.com/shorts/WAtuiLH-Npk "Now")
 
 ## 參數
 名字 | 說明
